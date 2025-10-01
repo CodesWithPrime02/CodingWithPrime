@@ -1,2 +1,2 @@
 # CodingWithPrime
-Showcasing varieties of projects using Front-End technologies.
+Showcasing Varieties Of Projects Using Front-End Technologies.
